@@ -1,0 +1,24 @@
+word_list=[
+
+'coach',
+'yarn',
+'terrify'
+'stew',
+'handle',
+'arm',
+'shake',
+'detect',
+'marry',
+'smooth',
+'hurry',
+'selfish',
+'cloth',
+'unlock',
+'claim',
+'super',
+'ordinary',
+'drawer',
+'turkey',
+'circle',
+'prefer'
+ ]
